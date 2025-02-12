@@ -1,4 +1,4 @@
-# Understanding Set GID (SGID) and Sticky Bit in Linux 
+# Set GID (SGID) and Sticky Bit in Linux 
 
 ## Set GID (Set Group ID) Bit 
 
